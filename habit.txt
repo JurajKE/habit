@@ -17,3 +17,7 @@ a kod mozem pisat ovela dlhsie.
 
 6. Programovanie je tymova praca, nebat sa poziadat o pomoct a rovnako tak poskytnut pomoc. 
 Ak budem vsetko chciet urobit sam, mozem sa zaseknut a stracam cas a produktivitu.
+
+7. Programovanie okrem toho ze je aj timova praca, je z velkej casti aj samostnatna praca.
+Treba sa na to pripravit aby sme zvladali dlhsi cas byt neruseny a sam a pouzivat hlavu
+na vyriesenie nejakeho problemu.
