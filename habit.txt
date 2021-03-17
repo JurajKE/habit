@@ -4,3 +4,7 @@ habit.txt
 stavu nasho organizmu na vyslednu pracu programatora. 
 
 Toto je len skuska
+
+3. Pisat cisty a citatelny kod pre je zaklad, nie len pre svoju spokojnost ale 
+aj koli inym ludom ktory potrebuju dany kod precitat, neustale vylepsovanie kodu 
+ho robi niekedy nerozlustitelnym.
