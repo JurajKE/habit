@@ -25,3 +25,5 @@ na vyriesenie nejakeho problemu.
 8. Toto je skuska
 
 Toto je zase skuska
+
+Toto je stale skuska
