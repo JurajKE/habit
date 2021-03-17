@@ -8,3 +8,7 @@ Toto je len skuska
 3. Pisat cisty a citatelny kod pre je zaklad, nie len pre svoju spokojnost ale 
 aj koli inym ludom ktory potrebuju dany kod precitat, neustale vylepsovanie kodu 
 ho robi niekedy nerozlustitelnym.
+
+4. Definovat si cas, kedy budem neruseny, kedy sa mi najlepsie pracuje a rozmysla.
+Akonahle som prerusovany kazdu chvilu, logicke suvislosti mi tak skoro nedojdi 
+a kod mozem pisat ovela dlhsie.
